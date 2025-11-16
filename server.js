@@ -25,6 +25,6 @@ app.use((err, req, res, next) => {
 const PORT = process.env.PORT || 5000;
 
 app.listen(PORT, () => {
-  console.log(`Server dey run for port ${PORT} 🚀`);
+  console.log(`Server dey run for port ${PORT} – Make 10m with Victor! (DEMO MODE)`);
   console.log(`Go test: http://localhost:${PORT}/api/tasks`);
 });
