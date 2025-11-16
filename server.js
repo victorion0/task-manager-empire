@@ -32,7 +32,7 @@ app.get('/', (req, res) => {
         </a>
       </div>
       <p style="color:#999; font-size:14px;">
-        Built by <strong>Victor</strong> • 2025 • <a href="https://github.com/victorion014/task-manager-empire" style="color:#1a73e8;">GitHub</a>
+        Built by <strong>Victor</strong> • 2025 • <a href="https://github.com/victorion0/task-manager-empire" style="color:#1a73e8;">GitHub</a>
       </p>
     </div>
   `);
