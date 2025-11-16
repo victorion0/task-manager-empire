@@ -1,4 +1,5 @@
 name: task-manager-empire
 region: us-east-1
 runtime: nodejs20
-entrypoint: node server.js
+build: npm install
+entrypoint: npm start
